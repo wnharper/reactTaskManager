@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Work meeting",
+      "day": "Friday, Jan 20th",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Golf",
+      "day": "Tuesday, Mar 20th",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Book club",
+      "day": "Saturday, Jan 14th",
+      "reminder": true
+    },
+    {
+      "text": "Study",
+      "day": "Friday, 24th Jan",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Baby sitting",
+      "day": "Wednesday, Sep 14th",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
